@@ -1,1 +1,1 @@
-# Javascript-Clock-devi
+# Javascript-Clock-odevi
